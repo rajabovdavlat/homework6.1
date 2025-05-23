@@ -1,0 +1,53 @@
+.footer{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+.ul-1{
+    max-width: 300px;
+}
+.ul-1 :first-child{
+    padding-bottom: 20px;
+    font-size: 24px;
+    
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 24px;
+    letter-spacing: 5%;
+    text-transform: uppercase;
+    color: rgba(21, 105, 99, 1);
+
+}
+.ul-2 :first-child{
+    padding-bottom: 20px;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 16px;
+    letter-spacing: 0%;
+
+}
+.ul-3 :first-child{
+    padding-bottom: 20px;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 16px;
+    letter-spacing: 0%;
+}
+.ul-4 :first-child{
+    margin-bottom: 20px;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 16px;
+    letter-spacing: 0%;
+}
+.f-i{
+    height: 30px;
+}
+.sub{
+    font-size: 16px;
+    background-color: #156963;
+    color: white;
+    border-radius: 0%;
+    justify-content: start;
+    display: flex;
+}

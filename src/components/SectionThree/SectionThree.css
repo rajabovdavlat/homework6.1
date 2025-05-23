@@ -1,0 +1,18 @@
+.sec3{
+    margin-top: 30px;
+    display: flex; 
+    align-items: center;
+    justify-content: space-between;
+}
+
+.s3-info h2{
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 56px;
+    
+}
+.s3-info p{
+    max-width: 550px;
+    padding-top: 30px;
+    padding-bottom: 60px;
+}

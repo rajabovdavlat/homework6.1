@@ -1,0 +1,29 @@
+.all-ser{
+    display: flex;
+    margin-top: 50px;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+}
+.ser{
+    width: 320px;
+    height: 180px;
+    padding: 10px;
+    border: 1px solid #E0E0E0;
+}
+.set:hover{
+    transform: scale(1.5);
+}
+.ser p{
+    font-size: 12px;
+}
+.ser-title{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+.ser-title h3{
+    font-size: 20px;
+    font-weight: 700;
+    color: #156963;
+}

@@ -1,0 +1,27 @@
+.sec4{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #F3F4F6;
+    width: full;
+    padding: 50px;
+    height: 360px;
+}
+.sec4 h2{
+    font-size: 40px;
+    font-weight: 700;
+    max-width: 700px;
+}
+.s4-info button{
+    background-color: #156963;
+    color: white;
+    border-radius: 0%;
+    justify-content: start;
+    display: flex;
+    margin-left: 50px;
+}
+.s4-info button:hover{
+    background-color: transparent;
+    color: #156963;
+    transition: all;
+}
