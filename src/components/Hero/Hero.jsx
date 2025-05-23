@@ -14,7 +14,7 @@ function Hero() {
         </div>
       </nav>
       <div className='hero'>
-        <img className='hero-img' src="/hero-img.png" alt="" />
+        <img className='hero-img' src="./hero-img.png" alt="" />
         <div className='hero-info'>
           <h1 className='hero_title'>Kembang Flower Mantap</h1>
           <p className='hero-p'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, </p>
